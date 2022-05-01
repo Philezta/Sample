@@ -1,0 +1,4 @@
+It is good to have a deeper knowledge of git
+In a group of developers, this is medium for code sharing
+I am singing on the git seamless nature
+Please try this out

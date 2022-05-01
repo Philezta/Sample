@@ -1,0 +1,4 @@
+Hello, this is my first time of using git
+I found version control system interesting and I like to be very good on this
+What a great experience with git?
+Please rubby developer, go fir this, try it out, simple to use
